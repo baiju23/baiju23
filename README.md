@@ -16,6 +16,9 @@ I am passionate about data analysis and machine learning. I enjoy solving real-w
 - Customer Churn Prediction
 - COVID-19 Data Analysis
 
+## 📈 Goal
+To become a Data Scientist and work on real-world data problems.
+
 ## 📫 Contact
 📧 shivamsri7668@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/baij-nath-srivastava-3369311b1
