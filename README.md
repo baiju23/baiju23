@@ -19,6 +19,7 @@ I am learning Python, SQL, and Data Engineering while building real-world projec
 - Hospital Management System
 - Python Practice Programs
 - 100 Days Python Challenge
+- Student Anylytic Function System
 
 ## 📈 Goal
 To become a skilled Data Engineer and build real-world data projects using Python and SQL.
